@@ -47,7 +47,7 @@ The **"Portfolio" project** is a personal portfolio website designed to showcase
 ### 1. Home Page
 
 - **Hero Section:** Introduces the user with a welcome message and a brief introduction.
-- **Logic:** Typically uses a combination of text and image to create an engaging first impression. Can include a call-to-action (CTA) button that navigates to the projects or contact section.
+- **Logic:** Typically uses a combination of text and image to create an engaging first impression.
 - **Technologies:** Utilizes Tailwind CSS for responsive design and Framer Motion for entrance animations.
 
 ### 2. Projects Page
@@ -58,7 +58,7 @@ The **"Portfolio" project** is a personal portfolio website designed to showcase
 
 ### 3. Skills Page
 
-- **Skills Display:** Showcases your skills categorized by proficiency level and type (e.g., programming languages, frameworks, tools).
+- **Skills Display:** Showcases my skills categorized by proficiency level and type (e.g., programming languages, frameworks, tools).
 - **Logic:** Skills data is stored in a structured format (e.g., JSON or CMS). The skills are mapped to visual components such as progress bars or icons.
 - **Technologies:** Tailwind CSS for responsive design and potential use of Framer Motion for animated progress bars or skill icons.
 
@@ -74,7 +74,7 @@ The **"Portfolio" project** is a personal portfolio website designed to showcase
 - **Logic:** Form inputs are managed using React state or a form library. Upon submission, the form data is validated and sent to an email service.
 - **Technologies:** React Email for form state management and Resend for sending emails. Tailwind CSS for styling and possibly Framer Motion for form input animations.
 
-- **Social Links:** Provides links to your social media profiles.
+- **Social Links:** Provides links to my social media profiles.
 - **Logic:** Social links are stored in a configuration file and dynamically rendered as icons or buttons.
 - **Technologies:** React Icons for the icons and Tailwind CSS for styling.
 
